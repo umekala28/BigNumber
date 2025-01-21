@@ -77,8 +77,6 @@ java BigNumberTest
 
 Here is a simple example demonstrating how to use the BigNumber class:
 
-public class BigNumberExample {
-    public static void main(String[] args) {
         BigNumber num1 = new BigNumber("12345678901234567890");
         BigNumber num2 = new BigNumber("-98765432109876543210");
 
