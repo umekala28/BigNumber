@@ -88,7 +88,6 @@ Here is a simple example demonstrating how to use the BigNumber class:
         System.out.println("Difference: " + difference); // Output: Difference: 111111111011111111100
         System.out.println("Product: " + product);    // Output: Product: -1219326311370217952237463801111263526900
     }
-}
 ## Testing
 
 The BigNumberTest class includes a variety of test cases:
