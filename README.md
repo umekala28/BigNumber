@@ -95,9 +95,10 @@ The BigNumberTest class includes a variety of test cases:
 Large positive and negative numbers.
 Edge cases like zero and invalid input.
 Arithmetic and comparison operations.
-Limitations
-
 
 ## Contributing
 Contributions are welcome! If you'd like to improve the BigNumber class or add new features, feel free to fork the repository and submit a pull request.
 
+## Author 
+Urvi Mekala
+urvimekala24@gmail.com
